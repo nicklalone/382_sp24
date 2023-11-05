@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "05 - Intro to GIS/05 - Intro to GIS.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "cffe793b94ee869b",
   "lastOpenFiles": [
-    "05 - Intro to GIS/05 - Intro to GIS.md",
+    "04 - Game Maps/04 - Game Maps.md",
     "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
-    "README.md",
+    "02 - How do Maps Work/02 - How do Maps Work.md",
     "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
+    "README.md",
+    "05 - Intro to GIS/05 - Intro to GIS.md",
     "14 - Final Project/14 - Final Project.md",
     "13 - Test Week/13 - Test Review.md",
     "12 - Ethics and Geodesign/12 - Ethics and Geodesign.md",
@@ -159,8 +161,6 @@
     "10 - Map Design/10 - Map Design.md",
     "08 - Disaster and Maps/08 - Disaster and Maps.md",
     "07 - Remote Sensing/07 - Remote Sensing.md",
-    "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
-    "04 - Game Maps/04 - Game Maps.md",
-    "02 - How do Maps Work/02 - How do Maps Work.md"
+    "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md"
   ]
 }
