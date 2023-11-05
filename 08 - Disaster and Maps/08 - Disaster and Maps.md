@@ -1,5 +1,7 @@
 ---------------- Table of Contents ---------------- 
 
+1. [Concepts to Date](#midterm)
+2. [Concepts for This Week](#thisweek)
 1. [Day 1](#day1)
 	1. [ESRI's Deal: I bet you can't guess.](#)
 		1. https://www.esri.com/en-us/disaster-response/overview
@@ -16,6 +18,10 @@
 	
 
 ---------------- Table of Contents ---------------- 
+
+# <a id="midterm"></a>Concepts to Date
+
+# <a id = "today"></a>Concepts for This Week 
 # <a id="day1"></a>Tuesday 
 ESRI's Deal: 
 		1. https://www.esri.com/en-us/disaster-response/overview

@@ -1,7 +1,6 @@
 ---------------- Table of Contents ---------------- 
 
-1. [Concepts to Date](#midterm)
-2. [Concepts for This Week](#thisweek)
-3. [Day 1](#day1)
+1. [What you'll be tested on](#testpreview)
 
 ---------------- Table of Contents ---------------- 
+# <a id="testpreview"></a>What you'll be tested on

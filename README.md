@@ -3,16 +3,21 @@
 ---------------- Table of Contents ---------------- 
 
 1. [Course Description](#cd)
-2. [Course Outline](#co)
-3. [Point Distribution](#pd)
-4. [Quizzes](#qu)
-5. [Exercises](#ex)
-6. [Test](#test)
-7. [Final Project](#fp)
+2. [Course Objectives](#cob)
+3. [Course Outline](#co)
+4. [Point Distribution](#pd)
+5. [Quizzes](#qu)
+6. [Exercises](#ex)
+7. [Test](#test)
+8. [Final Project](#fp)
 
 ---------------- Table of Contents ---------------- 
-### <a id = "cd"></a>Course Description
+### <a id = "cd"></a>Course Description (from the University)
 This course provides a survey of technologies used to represent the earth, collectively referred to as Geospatial Technologies (GTs). Students will gain hands-on experience with GTs, including Global Positioning Systems (GPS), Geographic Information Systems (GIS), Virtual Globes (Google Earth), Imaging, and web 2.0 “mapping mashups.” Students should be comfortable working in PC-based computing environments.
+
+### <a id="cob"></a>Course Objective
+Broader developments with information technology have increased the use and application of GTs. For example, GTs have become common place in numerous industries such as telecommunications, civil engineering, and crisis management. Furthermore, 80% of all data contains a spatial component, thus making GTs relevant and applicable to very wide range of information management tasks. The objective of this course is to expose students to foundational concepts and technologies of GTs. Students taking the course will be able to continue with additional GT courses on remote sensing, Geographic Information Systems (GISs), spatial databases, mobile GIS, spatial analysis, geographic visualization, and applications of GTs to environmental, societal, and other problem domains.
+
 ### <a id = "co"></a>Course Outline
 The course outline this semester is currently but can change at any time (we will talk about it first):
 

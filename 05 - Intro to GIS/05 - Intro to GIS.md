@@ -1,10 +1,9 @@
 ---------------- Table of Contents ---------------- 
 
-1. [Concepts to Date](#midterm)
-2. [Concepts for This Week](#thisweek)
-3. [Day 1](#day1)
-	1. Mostly we just went through some terms.
-4. [Day 2](#day2)
+1. [Reading this Week](#reading)
+2. [Concepts to Date](#todate)
+3. [Concepts for This Week](#thisweek)
+4. [Day 1](#day1)
 	1. [We Finally Get Started](#getstart)
 		1. [Introducing ArcGIS Pro](#intro)
 		2. [Filetypes, extensions, and things](#filetypes)
@@ -53,7 +52,7 @@
 * **Map Projections** - https://www.gislounge.com/map-projection/
 * **Generalization** - https://support.esri.com/en-us/gis-dictionary/generalization
 
-# <a id="day1"></a>Tuesday 
+# <a id="day1"></a>Day 1
 ## <a id ="getstart"></a>We Finally Get Started
 So for the past couple of weeks, we've been stuck in a bit of a torpor. I didn't have permissions to show GIS in class unless I brought a windows machine to class. This led to a week of delaying new instruction. Now, I have the permissions for us to really begin running. 
 
