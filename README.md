@@ -26,14 +26,14 @@ The course outline this semester is currently but can change at any time (we wil
 |6|Doing Geospatial Analysis|Yes|Yes|
 |7|Remote Sensing|Yes|Yes|
 |8|Applied Topics: Disaster and Maps|Yes|Yes|
-|9|Spring Break|||
+|9|Spring Break|No|No|
 |10|Paper Maps, Cartography, and Map Design|Yes|Yes|
 |11|What is the future of map design?|Yes|Yes|
 |12|Ethics and Geodesign|Yes|Yes|
-|13|Test Week|||
-|14|Final Project Start|||
-|15|Final Project Checkin|||
-|16|Final Project Submission|||
+|13|Test Week|No|No|
+|14|Final Project Start|No|No|
+|15|Final Project Checkin|No|No|
+|16|Final Project Submission|No|No|
 
 ### <a id = "pd"></a>Point Distribution
 |Deliverable|Number of|Points Per|Total|
