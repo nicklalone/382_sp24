@@ -7,7 +7,7 @@
 
 ---------------- Table of Contents ---------------- 
 # <a id="midterm"></a>Concepts to Date
-This is the first week so no real concepts to worry about.
+This is the first week so no real concepts to worry about. 
 # <a id = "today"></a>Concepts for This Week 
 (Note: These are mostly conceptual but are important for later terms. These will factor in to other weeks.)
 * Space

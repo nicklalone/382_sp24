@@ -17,6 +17,8 @@
 		3. [Doing it](#doing)
 
 ---------------- Table of Contents ---------------- 
+# <a id="reading"></a>Reading for this week
+
 # <a id="midterm"></a>Concepts to Date
 * **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
 * **Vector** - https://www.caliper.com/glossary/what-is-vector-data.htm

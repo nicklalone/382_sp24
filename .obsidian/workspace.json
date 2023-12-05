@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.5
   },
   "right": {
     "id": "66931a98bc4b68ee",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md"
+                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md"
               }
             }
           }
@@ -146,19 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cffe793b94ee869b",
+  "active": "43fd74508947a746",
   "lastOpenFiles": [
-    "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
-    "syllabus/~$sp - IGME_382_Syllabus.docx",
-    "syllabus/24sp - IGME_382_Syllabus.docx",
-    "syllabus/24s - IGME_382_Syllabus_Spring_2024 - edit copy.docx",
-    "syllabus/23f - IGME_382_Syllabus_Fall_2023 - edit.docx",
-    "syllabus/IGME_382_Syllabus_Spring_2024 - edit copy.docx",
-    "syllabus/IGME_382_Syllabus_Fall_2023 - edit copy.docx",
-    "syllabus/IGME_382_Syllabus_Fall_2023 - edit.docx",
-    "02 - How do Maps Work/02 - How do Maps Work.md",
-    "14 - Final Project/14 - Final Project.md",
-    "13 - Test Week/13 - Test Review.md",
+    "readings/02 - How do Maps Work/02 - Bollnow - Human Spaces.pdf",
+    "Reading",
     "12 - Ethics and Geodesign/12 - Ethics and Geodesign.md",
     "11 - Future of Maps/11 - Future of Maps.md",
     "10 - Map Design/10 - Map Design.md",
@@ -168,6 +159,17 @@
     "05 - Intro to GIS/05 - Intro to GIS.md",
     "04 - Game Maps/04 - Game Maps.md",
     "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
+    "02 - How do Maps Work/02 - How do Maps Work.md",
+    "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
+    "13 - Test Week/13 - Test Review.md",
+    "syllabus/~$sp - IGME_382_Syllabus.docx",
+    "syllabus/24sp - IGME_382_Syllabus.docx",
+    "syllabus/24s - IGME_382_Syllabus_Spring_2024 - edit copy.docx",
+    "syllabus/23f - IGME_382_Syllabus_Fall_2023 - edit.docx",
+    "syllabus/IGME_382_Syllabus_Spring_2024 - edit copy.docx",
+    "syllabus/IGME_382_Syllabus_Fall_2023 - edit copy.docx",
+    "syllabus/IGME_382_Syllabus_Fall_2023 - edit.docx",
+    "14 - Final Project/14 - Final Project.md",
     "README.md"
   ]
 }

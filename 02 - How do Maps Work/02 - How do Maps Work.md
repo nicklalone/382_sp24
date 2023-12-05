@@ -6,6 +6,8 @@
 4. [Day 1](#day1)
 
 ---------------- Table of Contents ---------------- 
+# <a id="reading"></a>Reading for this week
+
 # <a id="midterm"></a>Concepts to Date
 * Space
 * Cultivate
@@ -18,3 +20,14 @@
 * Geospatial
 
 # <a id = "today"></a>Concepts for This Week 
+* Wayfinding
+* GPS
+* Triangulation
+* grids 
+* labels 
+* direction 
+* title 
+* distance (or scale)
+* compass 
+* citations
+* index
