@@ -10,7 +10,7 @@
 This is the first week so no real concepts to worry about. 
 # <a id = "today"></a>Concepts for This Week 
 (Note: These are mostly conceptual but are important for later terms. These will factor in to other weeks.)
-* Space
+* Space - 
 * Cultivate
 * Cassini
 * Composite of France
