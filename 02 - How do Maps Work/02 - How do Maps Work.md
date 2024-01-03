@@ -3,7 +3,8 @@
 1. [Reading this Week](#reading)
 2. [Concepts to Date](#todate)
 3. [Concepts for This Week](#thisweek)
-4. [Day 1](#day1)
+4. [Day 1 - The Deal](#day1)
+5. Day 2 - Geocaching
 
 ---------------- Table of Contents ---------------- 
 # <a id="reading"></a>Reading for this week
@@ -31,3 +32,7 @@
 * compass 
 * citations
 * index
+
+# <a id = "day1"></a>Day 1 - The Deal
+
+# Day 2 - Geocaching
