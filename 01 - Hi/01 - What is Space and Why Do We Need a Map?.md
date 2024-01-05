@@ -72,9 +72,9 @@ But how did we get here. Let's take a moment and thank 2 folks from France, ok, 
 		2. Jacques Cassini 
 		3. surveyed the whole of the Paris meridian from Dunkirk to Perpignan; and between 1733 and 1740 
 	2. Father son: 
-	3. Jacques Cassini
-	4. César Cassini 
-		1. undertook the first triangulation of the whole country, including a re-surveying of the meridian arc, leading to the publication in 1745 of the first map of France constructed on rigorous principles.
+		1. Jacques Cassini
+		2. César Cassini 
+			1. undertook the first triangulation of the whole country, including a re-surveying of the meridian arc, leading to the publication in 1745 of the first map of France constructed on rigorous principles.
 2. Napoleon Bonaparte: 
 	1. Realized that this map and its application to the battlefield could change the probability of positive outcomes in war.
 
