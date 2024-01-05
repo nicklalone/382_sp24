@@ -82,7 +82,11 @@ And so, we had experienced or lived space as the general approach to everything.
 
 So what does that matter? Well, after Napoleon was defeated, the world had to figure out wtf just happened. One dude, coming out of France, so completely trounced everything that the world could no longer remain the same. Prussia, the most decimated by Napoleon, had a giant amount of work to do. What we saw was two distinct developments: The Sand Table and Kriegspiel.
 ### Sand Table
+One thing I enjoy is this talk from my friend Matthew on Sandtables. Originally, this was how we computed stuff. It was an interactive surface where people would feed an umpire inputs and the umpire would play it out like some sort of pseudo processor. 
+
+If you have time, give this talk a chance: https://www.youtube.com/watch?v=ADvm1CuSeyM&ab_channel=GeorgetownUniversityWargamingSociety
 
 ### Kriegspiel
+
 
   
