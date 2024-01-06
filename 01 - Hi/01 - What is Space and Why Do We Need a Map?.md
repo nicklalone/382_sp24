@@ -1,27 +1,24 @@
 ---------------- Table of Contents ---------------- 
 
 1. [Reading this Week](#reading)
-2. [Concepts to Date](#todate)
-3. [Concepts for This Week](#thisweek)
-4. [Day 1](#day1)
-5.  [Day 2](#day2)
+2. [Concepts for This Week](#thisweek)
+3. [Day 1](#day1)
+4.  [Day 2](#day2)
 
 ---------------- Table of Contents ---------------- 
-# <a id="midterm"></a>Concepts to Date
-This is the first week so no real concepts to worry about. 
+
 # <a id = "today"></a>Concepts for This Week 
 (Note: These are mostly conceptual but are important for later terms. These will factor in to other weeks.)
 
-* Space - 
-* Cultivate - 
-* Cassini - 
-* Composite of France - 
-* Kriegspiel - 
-* Sand Table - 
-* Triangulation - 
-* Information Age - 
-* Geospatial - 
-
+* Space - What is the definition? An area cleared for cultivation. 
+* Cultivate - What is cultivation?
+* Cassini - A family of scientists or astronomers who revolutionized maps and mapping. 
+* Composite of France - https://en.wikipedia.org/wiki/Cassini_map. This map is the first map to be based on a [geodesic](https://en.wikipedia.org/wiki/Geodesic "Geodesic") triangulation.
+* Kriegspiel - A game made to counter Napoleon's use of triangulation and maps.
+* Sand Table - Originally in ancient greece, Sand Tables were used for counting. Eventually, they would become a rudimentary board for board games, war games, military training, and are currently used in augmented reality.
+* Triangulation - determining the location of where a point is given the angles toward it from a known point.
+* Information Age - During the battle of Jena Auerstadt, Hegel, watching the battle, declared Napoleon to be the embodiment of a the spirit of an age. Later, Foucault would call this the age of empiricism and later, it would be called the age of information.
+* Geospatial - from [here](https://www.merriam-webster.com/dictionary/geospatial#:~:text=%3A%20consisting%20of%2C%20derived%20from%2C,spatial%20(or%20geospatial)%20mining.): consisting of, derived from, or relating to data that is directly linked to specific geographical locations. If the data set consists of geographical information, it is called spatial (or geospatial) mining.
 # <a id = "day1"></a>Day 1 - The Deal
 Hi, how are you. 
 I have a number of philosophies about how classes should work. They are relatively simple: 

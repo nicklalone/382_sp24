@@ -4,21 +4,11 @@
 2. [Concepts to Date](#todate)
 3. [Concepts for This Week](#thisweek)
 4. [Day 1 - The Deal](#day1)
-5. Day 2 - Geocaching
+5. [Day 2 - Geocaching](#day2)
 
 ---------------- Table of Contents ---------------- 
 # <a id="reading"></a>Reading for this week
 
-# <a id="midterm"></a>Concepts to Date
-* Space
-* Cultivate
-* Cassini
-* Composite of France
-* Kriegspiel
-* Sand Table
-* Triangulation
-* Information Age
-* Geospatial
 
 # <a id = "today"></a>Concepts for This Week 
 * Wayfinding
@@ -35,4 +25,5 @@
 
 # <a id = "day1"></a>Day 1 - The Deal
 
-# Day 2 - Geocaching
+
+# <a id="day2"></a>Day 2 - Geocaching

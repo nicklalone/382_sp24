@@ -19,8 +19,6 @@
 ---------------- Table of Contents ---------------- 
 # <a id="reading"></a>Reading for this week
 
-# <a id = "todate"></a> Concepts to Date
-
 
 # <a id="midterm"></a> Concepts This Week
 * **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
@@ -247,12 +245,3 @@ Data
 Labeling
 Appearance
 ...and more.
-## Let's Apply What We Got Started - Assignment 1
-Your assignment is very straight forward, I hope, what I want are 3 things that are all done inside of GIS: 
-1. Find your hometown.
-2. Find RIT.
-3. Calculate the distance between the two.
-4. Put it all in a report along with a couple sentences about how far you've come and the last map...
-5. Where you want to end up. 
-
-We aren't using storymaps yet, this is just fumbling around with tools.

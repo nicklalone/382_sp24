@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cffe793b94ee869b",
+            "id": "155c15be7415e8d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "df837611822d124a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ef08b8c6dd7fff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "155c15be7415e8d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
+                "file": "02 - How do Maps Work/02 - How do Maps Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
+                "file": "02 - How do Maps Work/02 - How do Maps Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Hi/01 - What is Space and Why Do We Need a Map?.md"
+                "file": "02 - How do Maps Work/02 - How do Maps Work.md"
               }
             }
           }
@@ -185,14 +148,17 @@
   },
   "active": "155c15be7415e8d9",
   "lastOpenFiles": [
+    "13 - Test Week/13 - Test Review.md",
+    "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
+    "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
+    "05 - Intro to GIS/05 - Intro to GIS.md",
+    "07 - Remote Sensing/07 - Remote Sensing.md",
+    "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
+    "04 - Game Maps/04 - Game Maps.md",
+    "02 - How do Maps Work/02 - How do Maps Work.md",
+    "14 - Final Project/14 - Final Project.md",
     "handouts/topic map.xlsx",
     "handouts/~$topic map.xlsx",
-    "04 - Game Maps/04 - Game Maps.md",
-    "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
-    "02 - How do Maps Work/02 - How do Maps Work.md",
-    "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
-    "13 - Test Week/13 - Test Review.md",
-    "05 - Intro to GIS/05 - Intro to GIS.md",
     "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf",
     "handouts/GIS_software_instructions_Fall_2022_Spring_2023.docx",
     "GIS_software_instructions_Fall_2022_Spring_2023.pdf",
@@ -201,14 +167,10 @@
     "untitled folder",
     "syllabus/24sp - IGME_382_Syllabus.pdf",
     "syllabus/~$sp - IGME_382_Syllabus.docx",
-    "presentations/01 - Thursday.pptx",
     "08 - Disaster and Maps/08 - Disaster and Maps.md",
     "12 - Ethics and Geodesign/12 - Ethics and Geodesign.md",
     "11 - Future of Maps/11 - Future of Maps.md",
     "10 - Map Design/10 - Map Design.md",
-    "07 - Remote Sensing/07 - Remote Sensing.md",
-    "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
-    "14 - Final Project/14 - Final Project.md",
     "README.md"
   ]
 }
