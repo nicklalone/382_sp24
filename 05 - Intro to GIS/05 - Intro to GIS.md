@@ -19,7 +19,10 @@
 ---------------- Table of Contents ---------------- 
 # <a id="reading"></a>Reading for this week
 
-# <a id="midterm"></a>Concepts to Date
+# <a id = "todate"></a> Concepts to Date
+
+
+# <a id="midterm"></a> Concepts This Week
 * **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
 * **Vector** - https://www.caliper.com/glossary/what-is-vector-data.htm
 	* **Discussion of Both**: 
@@ -42,7 +45,6 @@
 	* Proportional Symbol - https://wiki.gis.com/wiki/index.php/Proportional_symbol_map#:~:text=A%20Proportional%20symbol%20map%20is,to%20represent%20a%20quantitative%20variable.
 	* Dot Density - https://www.axismaps.com/guide/dot-density
 	* Isarithmic (heat) - http://wiki.gis.com/wiki/index.php/Isarithmic_map
-# <a id = "today"></a>Concepts for This Week 
 * Types of Layers
 	* **Thematic** - https://en.mimi.hu/gis/thematic_layer.html
 		* Wikipedia has an excellent list of thematic layers: https://en.wikipedia.org/wiki/Thematic_map
