@@ -10,6 +10,18 @@
 This week, you're reading things based on my ego (i'm kidding). You are reading things based on a project my research group has manifested. Surprisingly, the GIS folks thought it was neat? So, I thought it would be fun!
 
 # <a id = "today"></a>Concepts for This Week 
+* Game Cartography Interface - 
+* Playful Mapping - 
+* Maps of Fictional Places - 
+* Avalon Hill - 
+* Outdoor Survival - 
+* Dungeons and Dragons - 
+* Play on Map - 
+* Draw Map on Paper - 
+* 3D and Maps - 
+* Vintage Feel - 
+* Game world - 
+* Geospatial Analysis in Games - 
 # <a id = "day1"></a>Day 1 - The Deal
 
 
