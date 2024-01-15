@@ -13,16 +13,20 @@ Bollnow - Human Spaces Introduction
 [What's in a Map?](https://www.geographyrealm.com/whats-in-a-map/)
 [Coordinate Systems, Map Projections, and Transformations](https://pro.arcgis.com/en/pro-app/3.1/help/mapping/properties/coordinate-systems-and-projections.htm#:~:text=Geographic%20coordinate%20systems%20(GCS)%20are,latitude%20(y%2Dcoordinates).)
 # <a id = "thisweek"></a>Concepts for This Week 
-* Way finding - https://support.esri.com/en-us/gis-dictionary/wayfinding#:~:text=Wayfinding%20consists%20of%20acquiring%20information,the%20cognitive%20component%20of%20navigation.
-* GPS - https://support.esri.com/en-us/gis-dictionary/gps
-* grids - https://support.esri.com/en-us/gis-dictionary/grid
-* labels -  https://support.esri.com/en-us/gis-dictionary/label
+* Bar Scale - representative distance in reference to scale of a map (e.g. 1" = 1mil). 
+* compass -  https://support.esri.com/en-us/gis-dictionary/compass
+* Conformal Map - a type of map where angles, scales, and shapes on a map are preserved rather than adapted for the projection.
 * direction -  https://support.esri.com/en-us/gis-dictionary/direction
 * distance (or scale) - https://support.esri.com/en-us/gis-dictionary/scale
-* compass -  https://support.esri.com/en-us/gis-dictionary/compass
+* GPS - https://support.esri.com/en-us/gis-dictionary/gps
+* grids - https://support.esri.com/en-us/gis-dictionary/grid
 * index - https://support.esri.com/en-us/gis-dictionary/index
+* labels -  https://support.esri.com/en-us/gis-dictionary/label
 * Map Scale - https://support.esri.com/en-us/gis-dictionary/scale
+* Projection - When laying a globe down on a 2D surface, we have to adjust the shapes and angles of things. For example, we use the Mercator Projection but Authagraph can be a more accurate projection whereas the Gall-Peters Projection is far more equitable and deals with the various ways we've misrepresented information over time.
 * Locator / Inset - https://support.esri.com/en-us/gis-dictionary/inset-map
+* Way finding - https://support.esri.com/en-us/gis-dictionary/wayfinding#:~:text=Wayfinding%20consists%20of%20acquiring%20information,the%20cognitive%20component%20of%20navigation.
+
 # <a id = "day1"></a>Day 1 - The Deal
 
 
