@@ -28,7 +28,7 @@ Bollnow - Human Spaces Introduction
 * Way finding - https://support.esri.com/en-us/gis-dictionary/wayfinding#:~:text=Wayfinding%20consists%20of%20acquiring%20information,the%20cognitive%20component%20of%20navigation.
 
 # <a id = "day1"></a>Day 1 - The Deal
-
+Maps have been around for quite some time. 
 
 
 # <a id="day2"></a>Day 2 - Geocaching
