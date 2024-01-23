@@ -103,7 +103,7 @@ The rest of class will be devoted to going over the vocab which you can click an
         2. A screenshot of your map on google maps.
         3. A link to your map on google maps.
     2. Pages 2-6 has:
-        1. Geocache Name Plus Coordinates in 3 styles.
+        1. Geocache Name Plus Coordinates in 3 styles (easiest is just lat long decimals, degrees, and Universal Transverse Mercator coordinate system or **UTMREF**).
         2. Map of Point with label (from the app).
         3. Selfie Image of folks at the cache.
 2. Save to PDF.
