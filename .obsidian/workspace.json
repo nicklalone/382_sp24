@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
+                "file": "02 - How do Maps Work/02 - How do Maps Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
+                "file": "02 - How do Maps Work/02 - How do Maps Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
+                "file": "02 - How do Maps Work/02 - How do Maps Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Representations and Visualizations/03 - Representations and Visualizations.md"
+                "file": "02 - How do Maps Work/02 - How do Maps Work.md"
               }
             }
           }
@@ -148,7 +148,23 @@
   },
   "active": "155c15be7415e8d9",
   "lastOpenFiles": [
+    "images/harrison4.jpg",
+    "images/harrison.jpg",
+    "05 - Intro to GIS/05 - Intro to GIS.md",
     "02 - How do Maps Work/02 - How do Maps Work.md",
+    "images/04/5.png",
+    "images/latlong.png",
+    "images/04/4.png",
+    "images/04/3.png",
+    "images/04/2.png",
+    "images/04/1.png",
+    "images/map.png",
+    "images/insert.png",
+    "images/imagery.png",
+    "images/risk_index_calculation.png.md",
+    "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
+    "04 - Game Maps/04 - Game Maps.md",
+    "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
     "presentations/~$02 - Tuesday.pptx",
     "presentations/06 - Tuesday.pptx",
     "presentations/~$06 - Tuesday.pptx",
@@ -159,11 +175,7 @@
     "presentations/03 - Tuesday.pptx",
     "presentations/~$03 - Tuesday.pptx",
     "presentations/02 - Tuesday.pptx",
-    "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
-    "04 - Game Maps/04 - Game Maps.md",
-    "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
     "13 - Test Week/13 - Test Review.md",
-    "05 - Intro to GIS/05 - Intro to GIS.md",
     "07 - Remote Sensing/07 - Remote Sensing.md",
     "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
     "14 - Final Project/14 - Final Project.md",

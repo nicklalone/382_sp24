@@ -59,3 +59,5 @@ Once you have selected the prompt, i'll be treating this like a checklist (10 po
 6. Where you will go next and why.
 
 Your grade will also consist of 20 points devoted to cohesion, grammar/syntax, and if your images are yours or are creative commons / open.
+
+
