@@ -39,3 +39,17 @@ The basics of the deal are this (in chronological order):
 	6. Re-alignment of GPS/GIS and Games
 	7. AR/VR >>>> coming soon.
 # <a id = "day2"></a>Day 2 - What Game? What Map?
+
+General Requirements: 
+
+- At least 1000 words written in a non-personal style. 
+- Stated Map Selection
+- Write an FAQ about how the map works
+- Include at least 5 images (no cell phone photos, native screenshots)
+- Include at least 5 links to articles about that game or the feature(s) you intend to add
+
+Specific Requirements: 
+
+- Why did you choose this map? (I love this game! or This game is popular! is not a valid reason).
+- How would you change it?
+- Why these changes (justified with sources, please just use footnotes with URLs in the footnotes)?
