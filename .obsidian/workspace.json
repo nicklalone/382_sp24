@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Game Maps/04 - Game Maps.md",
+                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Game Maps/04 - Game Maps.md",
+                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Game Maps/04 - Game Maps.md",
+                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Game Maps/04 - Game Maps.md"
+                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "155c15be7415e8d9",
   "lastOpenFiles": [
     "05 - Intro to GIS/05 - Intro to GIS.md",
+    "04 - Game Maps/04 - Game Maps.md",
     "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
     "presentations/~$03 - Tuesday.pptx",
     "images/gps/GPS-Trilateration-1265x870.png",
@@ -166,7 +167,6 @@
     "images/harrison4.jpg",
     "images/harrison.jpg",
     "images/risk_index_calculation.png.md",
-    "04 - Game Maps/04 - Game Maps.md",
     "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
     "presentations/~$02 - Tuesday.pptx",
     "presentations/06 - Tuesday.pptx",
