@@ -24,5 +24,18 @@ This week, you're reading things based on my ego (i'm kidding). You are reading 
 * Geospatial Analysis in Games - 
 # <a id = "day1"></a>Day 1 - The Deal
 
-
+The basics of the deal are this (in chronological order): 
+1. Napoleon's conquest of Europe
+2. Acceleration of military intelligence 
+3. Kriegspiel / Strategos are written 
+4. Better maps and mapping
+5. Digital approach to maps
+6. Epochs of tying maps and games
+	1. Board games / Wargames / D&D
+	2. Text Adventures
+	3. Mapping manually
+	4. Playing on maps
+	5. Map detaches / 3D
+	6. Re-alignment of GPS/GIS and Games
+	7. AR/VR >>>> coming soon.
 # <a id = "day2"></a>Day 2 - What Game? What Map?
