@@ -24,6 +24,11 @@ Nicolas LaLone. 2019. A Tale of Dungeons & Dragons and the Origins of the Game P
 * 3D and Maps - As games developed a z-axis, we began to be able to create terrain that was 3dimensional. To deal with this, we began to import developments of maps from the outside.
 # <a id = "day1"></a>Day 1 - The Deal
 
+The biggest deal of anything that we'll talk about today can be broken into a very neat and tidy set of 3. 
+1. Maps come from war.
+2. The games now we play come from war.
+3. Everything is disconnected from war now but games, computers, and maps are interconnected and reinforce each other as one of them changes.
+
 The basics of the deal are this (in chronological order): 
 1. Napoleon's conquest of Europe
 2. Acceleration of military intelligence 
