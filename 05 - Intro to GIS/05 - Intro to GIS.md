@@ -18,7 +18,7 @@
 
 ---------------- Table of Contents ---------------- 
 # <a id="reading"></a>Reading for this week
-
+Mostly this week, we are offering a bunch of tutorials and resources. 
 
 # <a id="midterm"></a> Concepts This Week
 * **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
@@ -65,30 +65,6 @@ What I thought i'd do this week is relatively simple:
 3. Prompt everyone to explore with an assignment in class. 
 
 So on Tuesday, we will explore GIS, on Thursday, we'll do an assignment. 
-
-### New Concepts
-
-**Data**
-* **Data Model** - https://spatialvision.com.au/blog-raster-and-vector-data-in-gis/
-* **Data Structure** - https://support.esri.com/en-us/gis-dictionary/data-structure
-
-**Types of Data**
-* **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
-* **Vector** - https://www.caliper.com/glossary/what-is-vector-data.ht
-
-**Concepts About the Makeup of Maps**
-* **Map Scale** - https://education.nationalgeographic.org/resource/map-scale/
-* **Map Projections** - https://www.gislounge.com/map-projection/
-* **Generalization** - https://support.esri.com/en-us/gis-dictionary/generalization
-
-**Layers** 
-* **Types of Layers**
-	* **Thematic** - https://en.mimi.hu/gis/thematic_layer.html
-		* Wikipedia has an excellent list of thematic layers: https://en.wikipedia.org/wiki/Thematic_map
-	* **Coropelth** - https://doc.arcgis.com/en/insights/latest/create/choropleth-maps.htm
-	* **Proportional Symbol** - https://wiki.gis.com/wiki/index.php/Proportional_symbol_map#:~:text=A%20Proportional%20symbol%20map%20is,to%20represent%20a%20quantitative%20variable
-	* **Dot Density** - https://www.axismaps.com/guide/dot-density
-	* **Isarithmic (heat)** - http://wiki.gis.com/wiki/index.php/Isarithmic_map
 
 ### <a id ="intro"></a>Introducing ArcGIS Pro (alternate things)
 If the stuff we talk about in class doesn't work for you, give this tutorial a shot: 

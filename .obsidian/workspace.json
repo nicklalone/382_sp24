@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Game Maps/04 - Game Maps.md",
+                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Game Maps/04 - Game Maps.md",
+                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Game Maps/04 - Game Maps.md",
+                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Game Maps/04 - Game Maps.md"
+                "file": "05 - Intro to GIS/05 - Intro to GIS.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "155c15be7415e8d9",
   "lastOpenFiles": [
+    "04 - Game Maps/04 - Game Maps.md",
     "syllabus/~$sp - IGME_382_Syllabus.docx",
     "presentations/~$01 - First Day.pptx",
     "presentations/~$04 - Tuesday.pptx",
     "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
     "presentations/~$03 - Tuesday.pptx",
     "05 - Intro to GIS/05 - Intro to GIS.md",
-    "04 - Game Maps/04 - Game Maps.md",
     "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
     "images/gps/GPS-Trilateration-1265x870.png",
     "images/gps/GPS-PDOP.png",
@@ -175,7 +175,6 @@
     "presentations/~$02 - Tuesday.pptx",
     "presentations/06 - Tuesday.pptx",
     "presentations/~$06 - Tuesday.pptx",
-    "presentations/05 - Tuesday.pptx",
     "13 - Test Week/13 - Test Review.md",
     "07 - Remote Sensing/07 - Remote Sensing.md",
     "14 - Final Project/14 - Final Project.md",
