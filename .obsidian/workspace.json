@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md"
+                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "155c15be7415e8d9",
   "lastOpenFiles": [
-    "04 - Game Maps/04 - Game Maps.md",
+    "07 - Remote Sensing/07 - Remote Sensing.md",
+    "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
+    "05 - Intro to GIS/05 - Intro to GIS.md",
+    "presentations/~$06 - Tuesday.pptx",
+    "presentations/~$05 - Tuesday.pptx",
     "syllabus/~$sp - IGME_382_Syllabus.docx",
+    "04 - Game Maps/04 - Game Maps.md",
     "presentations/~$01 - First Day.pptx",
     "presentations/~$04 - Tuesday.pptx",
-    "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
     "presentations/~$03 - Tuesday.pptx",
-    "05 - Intro to GIS/05 - Intro to GIS.md",
     "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
     "images/gps/GPS-Trilateration-1265x870.png",
     "images/gps/GPS-PDOP.png",
@@ -173,10 +176,7 @@
     "images/risk_index_calculation.png.md",
     "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
     "presentations/~$02 - Tuesday.pptx",
-    "presentations/06 - Tuesday.pptx",
-    "presentations/~$06 - Tuesday.pptx",
     "13 - Test Week/13 - Test Review.md",
-    "07 - Remote Sensing/07 - Remote Sensing.md",
     "14 - Final Project/14 - Final Project.md",
     "08 - Disaster and Maps/08 - Disaster and Maps.md",
     "12 - Ethics and Geodesign/12 - Ethics and Geodesign.md",
