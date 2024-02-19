@@ -51,3 +51,33 @@ https://www.linkedin.com/pulse/unleashing-power-geospatial-data-disaster-mitigat
 
 
 # Day 2 - Data Manipulation
+For this assignment, we're going to do something a little different than I had intended. From the past assignment, it became clear to me that the GIS software is almost totally new for you all.
+
+And so, let's pivot a bit to get a bit more exposure to what GIS can do. We're going to add data to GIS from somewhere else, filter some data, and produce a new spreadsheet.
+
+So, let's get into it. 
+
+We are going to work off of a dataset of ALL Starbucks in the world as of 2014. That dataset can be found: [https://www.arcgis.com/home/item.html?id=33f0d1a9b4d6453e8f6110c9eb2c36d5](https://www.arcgis.com/home/item.html?id=33f0d1a9b4d6453e8f6110c9eb2c36d5)
+
+You will be exporting this for ArcGIS Pro which is located on the right in the "Open in ArcGIS Desktop" menu.  
+
+Once clicked, this will download a file named, "item.pitemx"
+
+If you are on a machine with GIS installed, all you should have to do is double click it and it will open up a new project and then open up the file.
+
+Your job is to do the following: 
+
+1. Filter the Data for everything in the Rochester area. We discussed how to do this in class. Remember this: lower bound of zip codes, upper bound, US only.
+2. Create 2 Layouts.
+    - Layout 1:
+        - Your name and the date.
+        - Map of Starbucks in the Rochester area.
+        - Data Table
+    - Layout 2:
+        - Explanation as to why some Starbucks are not included.
+        - Did any of the Starbucks on your 2014 list close?
+        - Provide the addresses of 2 Starbucks in or near Rochester that are not on the list.
+
+Print both of these to PDF and combine them into 1 PDF. You can do this via Adobe Acrobat which everyone has access to with your student email account. 
+
+Please submit that one item.
