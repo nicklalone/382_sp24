@@ -18,7 +18,7 @@ Not a lot of readings this week. I had initially intended to do an exercise and 
 
 Each one of these videos could be an entire course. If you're interested in this sort of thing, dig on in!
 # <a id = "today"></a>Concepts for This Week 
-* Geospatial Analysis - a form of computational analysis that uses geographic information, spatial data, location data, and increasingly, high-resolution imagery, computer vision, and other forms of AI to extract structured data that can be used for specific applications and industries. [From here]()
+* Geospatial Analysis - a form of computational analysis that uses geographic information, spatial data, location data, and increasingly, high-resolution imagery, computer vision, and other forms of AI to extract structured data that can be used for specific applications and industries. [From here](https://capeanalytics.com/blog/geospatial-analytics-what-is-it-how-can-it-give-you-a-competitive-edge/#:~:text=Geospatial%20analytics%20is%20a%20form,for%20specific%20applications%20and%20industries.)
 
 # <a id = "day1"></a>Day 1 - Geospatial Analysis: What it is, what it does
 The basis of GIS from ESRI is Google Maps + Excel at its most basic. However, what this comparison provides is incomplete. To make it more complete, we can say that GIS is _actually_ Google Maps + Excel + the Python Interpreter. 
@@ -33,22 +33,28 @@ Collecting data is enormously expensive and any decisions to study something has
 * https://catalog.data.gov/dataset/?metadata_type=geospatial
 * https://data.world/datasets/geospatial
 * https://freegisdata.rtwilson.com/
-
 ## Examples of Geospatial Analysis
 From examining travel patterns in a municipality to trying to figure out where a new Starbucks or Target could go, there is an enormous amount of information out there that folks can crunch to figure this stuff out. We'll briefly go over a few of those things. 
-
 ### Travel Studies
-https://www.nrel.gov/transportation/secure-transportation-data/tsdc-atlanta-regional-travel-survey.html
-https://libguides.northwestern.edu/c.php?g=114808&p=748275
+Every decade or so, municipalities reform their strategic plan. For example, here's Rochester's: https://www.cityofrochester.gov/rochester2034/
 
+They then contact a statistics and data gathering firm to perform a study of how people travel in the area. From here, they use the data to identify traffic patterns, where new roads or new subdivisions or strip malls or commercial zones could be located. They'll also look for areas of crime, areas of congestion, and look for ways to deal with them. You can read about a few of these projects here: 
+* https://www.nrel.gov/transportation/secure-transportation-data/tsdc-atlanta-regional-travel-survey.html
+* https://libguides.northwestern.edu/c.php?g=114808&p=748275
 ### Retailers
-https://www.youtube.com/watch?v=Ol0SvsF2kP0&ab_channel=CARTO
-
+Retailers will use GIS for 2 distinct reasons: where to locate a store and where to locate items in a store. There is a TON of work on this from a variety of different spaces.
+* https://www.youtube.com/watch?v=Ol0SvsF2kP0&ab_channel=CARTO
 ### Segregation
-
+Most of our work on desegregating and correcting the history of our founding has been policy driven. While policy tends to try and force equity, there's still an absolutely huge amount of work to do. Geospatial analysis can provide us with a literal microscope to evaluate where that work is successful and not. 
+Check out the following: 
+* http://www.radicalcartography.net/index.html?chicagodots
+* https://dsl.richmond.edu/panorama/redlining/map#loc=5/39.1779/-95.8425
 ### Disaster Planning and Mitigation
-https://www.linkedin.com/pulse/unleashing-power-geospatial-data-disaster-mitigation-guru-pavan?trk=article-ssr-frontend-pulse_more-articles_related-content-card
+One of the oversights of humans in general is that we build things with little to no consideration of the world. The world then reminds us that things like water, fire, and earth can create massive problems for anyone nearby. To that end, we've really begun to work in and around the concept of "mitigation" or staging a bunch of resources and preparing for the inevitable events that will impact wherever we are. 
 
+* https://www.linkedin.com/pulse/unleashing-power-geospatial-data-disaster-mitigation-guru-pavan?trk=article-ssr-frontend-pulse_more-articles_related-content-card
+* https://www.linkedin.com/pulse/gis-disaster-management-vishwadeep-das
+* https://www.esri.com/en-us/industries/emergency-management/solutions/disaster-resilience
 
 # Day 2 - Data Manipulation
 For this assignment, we're going to do something a little different than I had intended. From the past assignment, it became clear to me that the GIS software is almost totally new for you all.
