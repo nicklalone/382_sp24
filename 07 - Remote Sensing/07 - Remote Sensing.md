@@ -55,16 +55,14 @@ Landsat mission is the longest running earth observation program. For over 40 ye
 5. **Please cite 5 pieces detailing what Passive remote sensing is.** 
 
 *  **2 Web Resources,**
-
-	1. Passive remote sensing detects energy emitted from an object. Most passive systems operate in the visible, infrared, thermal infrared, and microwave portions of the electromagnetic spectrum. These include sensors such as Accelerometers, Radiometers, and Spectrometers. ([NASA Earthdata](https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors))
-	2.  [Passive vs Active Sensing,](https://gisgeography.com/passive-active-sensors-remote-sensing/#%3A%7E%3Atext%3DActive%20sensors%20have%20their%20own%20source%20of%20light%2Cthe%20sun%20shines%2C%20passive%20sensors%20measure%20this%20energy) Passive sensors use naturally emitted light from the sun. Without the sun, there wouldn’t be passive remote sensing.
+		1. Passive remote sensing detects energy emitted from an object. Most passive systems operate in the visible, infrared, thermal infrared, and microwave portions of the electromagnetic spectrum. These include sensors such as Accelerometers, Radiometers, and Spectrometers. ([NASA Earthdata](https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors))
+		2.  [Passive vs Active Sensing,](https://gisgeography.com/passive-active-sensors-remote-sensing/#%3A%7E%3Atext%3DActive%20sensors%20have%20their%20own%20source%20of%20light%2Cthe%20sun%20shines%2C%20passive%20sensors%20measure%20this%20energy) Passive sensors use naturally emitted light from the sun. Without the sun, there wouldn’t be passive remote sensing.
 
 	* **2 academic resources (peer reviewed),**
+		1. [Science Direct](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/passive-remote-sensing#%3A%7E%3Atext%3DPassive%20remote%20sensing%20is%20basically%2CFrom%3A%20Hyperspectral%20Remote%20Sensing%2C%202020): “Passive remote sensing…depends on two sources of radiation. In the visible to shortwave infrared, the radiation collected by a remote sensing system originates with the sun…In the thermal infrared, [thermal radiation](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/thermal-radiation) is emitted directly by materials on the earth and combines with self-emitted thermal radiation in the atmosphere as it propagates upward.”
+		2.  [NASA](https://www.nasa.gov/general/what-are-passive-and-active-sensors/) “Spaceborne passive sensors provide the ability to obtain all-weather, day and night, global observations of the Earth and its atmosphere.”
 
-1. [Science Direct](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/passive-remote-sensing#%3A%7E%3Atext%3DPassive%20remote%20sensing%20is%20basically%2CFrom%3A%20Hyperspectral%20Remote%20Sensing%2C%202020): “Passive remote sensing…depends on two sources of radiation. In the visible to shortwave infrared, the radiation collected by a remote sensing system originates with the sun…In the thermal infrared, [thermal radiation](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/thermal-radiation) is emitted directly by materials on the earth and combines with self-emitted thermal radiation in the atmosphere as it propagates upward.”
-1.  [NASA](https://www.nasa.gov/general/what-are-passive-and-active-sensors/) “Spaceborne passive sensors provide the ability to obtain all-weather, day and night, global observations of the Earth and its atmosphere.”
-
-6. **What kind of data does remote sensing include?**
+2. **What kind of data does remote sensing include?**
 
 Remote sensing can include any physical characteristic, such as; temperature, distance, size, elevation, terrain, vegetative properties, cloud cover, water body depth, bedrock depth, & Gravimetry. Specialized sensors can go further and determine the chemical makeup of certain materials. ([USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used))
 
