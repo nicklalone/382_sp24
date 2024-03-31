@@ -12,8 +12,8 @@ Remote sensing is defined as the measurement of object properties on the earth�
 
 	*  **2** **Web** **Resources,**
 
-	1. Remote sensing is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from satellite or aircraft). Special cameras collect remotely sensed images, which help researchers "sense" things about the Earth:[USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used)
-	2. Remote sensing is the acquisition of information from a distance. NASA observes Earth and other planetary bodies via remote sensors on satellites and aircraft that detect and record reflected or emitted energy. Remote sensors, which provide a global perspective and a wealth of data about Earth systems, enable data-informed decision making based on the current and future state of our planet.[Earth Data (NASA)](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing)
+		1. Remote sensing is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from satellite or aircraft). Special cameras collect remotely sensed images, which help researchers "sense" things about the Earth:[USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used)
+		2. Remote sensing is the acquisition of information from a distance. NASA observes Earth and other planetary bodies via remote sensors on satellites and aircraft that detect and record reflected or emitted energy. Remote sensors, which provide a global perspective and a wealth of data about Earth systems, enable data-informed decision making based on the current and future state of our planet.[Earth Data (NASA)](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing)
 
 	* **2** **academic** **resources** **(peer** **reviewed),**
 		1. [Introduction to Remote Sensing, Fifth Edition](https://books.google.com/books?hl=en&lr&id=NkLmDjSS8TsC&oi=fnd&pg=PP1&dq=remote%2Bsensing&ots=s3Etu3qZ0w&sig=2NTVmMKDxvO4K0hm20EiV1hEpZs%23v%3Donepage&q=remote%20sensing&f=false): “Remote sensing is the observation of a target by a device separated from it by some distance”
@@ -42,7 +42,7 @@ Active sensors use internal stimuli to collect data, emitting energy in order to
 	1. [Remote Sensing Big Data](https://link.springer.com/chapter/10.1007/978-3-031-33932-5_2) “The sensor transmits a radio signal in microwave and records the backscattered signal from targets.”
 	2. [From esri](https://support.esri.com/en-us/gis-dictionary/active-remote-sensing): “A remote-sensing system, such as radar, that produces electromagnetic radiation and measures its reflection back from a surface.”
 
-2. **What is Passive remote sensing?** 
+4. **What is Passive remote sensing?** 
 
 “Remote sensing systems which measure energy that is naturally available are called passive sensors. Passive sensors can only be used to detect energy when the naturally occurring energy is available. For all reflected energy, this can only take place during the time when the sun is illuminating the Earth.” ([Gov of Canada](https://natural-resources.canada.ca/maps-tools-publications/satellite-imagery-air-photos/remote-sensing-tutorials/introduction/passive-vs-active-sensing/14639))
 
@@ -52,7 +52,7 @@ Passive sensors respond to external stimuli, gathering radiation that is reflect
 
 Landsat mission is the longest running earth observation program. For over 40 years, Landsat has collected and documented our changing planet. Landsat science helps understand Earth’s climate, ecosystem and land use.” ([GIS Geography](https://gisgeography.com/passive-active-sensors-remote-sensing/))
 
-6. **Please cite 5 pieces detailing what Passive remote sensing is.** 
+5. **Please cite 5 pieces detailing what Passive remote sensing is.** 
 
 *  **2 Web Resources,**
 
@@ -64,25 +64,25 @@ Landsat mission is the longest running earth observation program. For over 40 ye
 1. [Science Direct](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/passive-remote-sensing#%3A%7E%3Atext%3DPassive%20remote%20sensing%20is%20basically%2CFrom%3A%20Hyperspectral%20Remote%20Sensing%2C%202020): “Passive remote sensing…depends on two sources of radiation. In the visible to shortwave infrared, the radiation collected by a remote sensing system originates with the sun…In the thermal infrared, [thermal radiation](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/thermal-radiation) is emitted directly by materials on the earth and combines with self-emitted thermal radiation in the atmosphere as it propagates upward.”
 1.  [NASA](https://www.nasa.gov/general/what-are-passive-and-active-sensors/) “Spaceborne passive sensors provide the ability to obtain all-weather, day and night, global observations of the Earth and its atmosphere.”
 
-8. **What kind of data does remote sensing include?**
+6. **What kind of data does remote sensing include?**
 
 Remote sensing can include any physical characteristic, such as; temperature, distance, size, elevation, terrain, vegetative properties, cloud cover, water body depth, bedrock depth, & Gravimetry. Specialized sensors can go further and determine the chemical makeup of certain materials. ([USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used))
 
-10. **In what circumstances are feet a remote sensor? In an earthquake, when the floor is wet, detecting temperature changes, finding where the floor is(uneven surface)**
+7. **In what circumstances are feet a remote sensor? In an earthquake, when the floor is wet, detecting temperature changes, finding where the floor is(uneven surface)**
 
 Feet have three primary sensory receptors: Mechanoreceptors, which can detect pressure and vibrations, Thermoreceptors, which can detect and regulate temperature, and Nociceptors, which detect pain. Ergo, in situations involving vibrations, temperature, or pain, feet can function as remote sensors. ([I didn’t make this up.](https://www.medboundtimes.com/fitness-and-wellness/perceiving-the-world-through-your-feet))
 
-12. **If I were to design a remote sensor for some phenomenon, what would that thing be tasked at sensing?**
+8. **If I were to design a remote sensor for some phenomenon, what would that thing be tasked at sensing?**
 
 Remote sensors often have the capacity to measure wavelengths of light or sound that are reflected off of the subject or area being observed. This device should have an emitter and a receptor. Lidar, lasers, and sonar are prime examples of how we use waves to measure distance from a point. Using distances, we can accurately make a textured surface that models the area or subject that was observed.
 
 In the case of an evacuation, we could design a remote sensor to measure the amount of sound coming from stairways to determine the most available path out of a particular building.
 
-14. **Why is it needed?**
+9. **Why is it needed?**
 
 Remote sensing is needed to detect phenomena is advance to give as much warning time as possible in the event it is needed (ie. evacuation.) Remote sensing is also useful in gathering information about a subject from very far away or without touching it.([USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used))
 
-1. **So** **I** **have** **asked** **a** **class** **of** **30** **individuals** **(of** **which** **around** **10** **will** **have** **actively contributed** **to** **this** **task)** **for** **solid** **answers** **about** **what** **remote** **sensing** **is.** **What weaknesses could there be in the data feed from my remote sensors?**
+10. **So** **I** **have** **asked** **a** **class** **of** **30** **individuals** **(of** **which** **around** **10** **will** **have** **actively contributed** **to** **this** **task)** **for** **solid** **answers** **about** **what** **remote** **sensing** **is.** **What weaknesses could there be in the data feed from my remote sensors?**
 
 Disjointed data, as the remote sensors aren’t fully communicating as they collect data. Face value information is being used for the answers instead of thorough research
 
