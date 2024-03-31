@@ -23,7 +23,7 @@ Remote sensing is defined as the measurement of object properties on the earth�
 	
 		1. [What is Remote Sensing?](https://www.youtube.com/watch?v=F2mQ6fJSxRY) Museum)
 
-1. **What is Active remote sensing?**
+3. **What is Active remote sensing?**
 
 “The sensor emits radiation which is directed toward the target to be investigated. The radiation reflected from that target is detected and measured by the sensor.” ([Gov of](https://natural-resources.canada.ca/maps-tools-publications/satellite-imagery-air-photos/remote-sensing-tutorials/introduction/passive-vs-active-sensing/14639) [Canada](https://natural-resources.canada.ca/maps-tools-publications/satellite-imagery-air-photos/remote-sensing-tutorials/introduction/passive-vs-active-sensing/14639))
 
@@ -31,7 +31,7 @@ Remote sensing is defined as the measurement of object properties on the earth�
 
 Active sensors use internal stimuli to collect data, emitting energy in order to scan objects and areas whereupon a sensor measures the energy reflected from the target. RADAR and LiDAR are typical active remote sensing tools that measure the time delay between emission and return in order to establish the location, direction, and speed of an object. The remote sensing data gathered is then processed and analyzed with remote sensing hardware and computer software, which is available in a variety of proprietary and open source applications.([Heavy.AI](https://www.heavy.ai/technical-glossary/remote-sensing))
 
-3. **Please cite 5 pieces detailing what Active remote sensing is. Please include:** 
+4. **Please cite 5 pieces detailing what Active remote sensing is. Please include:** 
 
 	* **2** **Web** **Resources,**
 
@@ -42,7 +42,7 @@ Active sensors use internal stimuli to collect data, emitting energy in order to
 	1. [Remote Sensing Big Data](https://link.springer.com/chapter/10.1007/978-3-031-33932-5_2) “The sensor transmits a radio signal in microwave and records the backscattered signal from targets.”
 	2. [From esri](https://support.esri.com/en-us/gis-dictionary/active-remote-sensing): “A remote-sensing system, such as radar, that produces electromagnetic radiation and measures its reflection back from a surface.”
 
-4. **What is Passive remote sensing?** 
+5. **What is Passive remote sensing?** 
 
 “Remote sensing systems which measure energy that is naturally available are called passive sensors. Passive sensors can only be used to detect energy when the naturally occurring energy is available. For all reflected energy, this can only take place during the time when the sun is illuminating the Earth.” ([Gov of Canada](https://natural-resources.canada.ca/maps-tools-publications/satellite-imagery-air-photos/remote-sensing-tutorials/introduction/passive-vs-active-sensing/14639))
 
@@ -52,7 +52,7 @@ Passive sensors respond to external stimuli, gathering radiation that is reflect
 
 Landsat mission is the longest running earth observation program. For over 40 years, Landsat has collected and documented our changing planet. Landsat science helps understand Earth’s climate, ecosystem and land use.” ([GIS Geography](https://gisgeography.com/passive-active-sensors-remote-sensing/))
 
-5. **Please cite 5 pieces detailing what Passive remote sensing is.** 
+6. **Please cite 5 pieces detailing what Passive remote sensing is.** 
 
 *  **2 Web Resources,**
 		1. Passive remote sensing detects energy emitted from an object. Most passive systems operate in the visible, infrared, thermal infrared, and microwave portions of the electromagnetic spectrum. These include sensors such as Accelerometers, Radiometers, and Spectrometers. ([NASA Earthdata](https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors))
@@ -62,21 +62,21 @@ Landsat mission is the longest running earth observation program. For over 40 ye
 		1. [Science Direct](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/passive-remote-sensing#%3A%7E%3Atext%3DPassive%20remote%20sensing%20is%20basically%2CFrom%3A%20Hyperspectral%20Remote%20Sensing%2C%202020): “Passive remote sensing…depends on two sources of radiation. In the visible to shortwave infrared, the radiation collected by a remote sensing system originates with the sun…In the thermal infrared, [thermal radiation](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/thermal-radiation) is emitted directly by materials on the earth and combines with self-emitted thermal radiation in the atmosphere as it propagates upward.”
 		2.  [NASA](https://www.nasa.gov/general/what-are-passive-and-active-sensors/) “Spaceborne passive sensors provide the ability to obtain all-weather, day and night, global observations of the Earth and its atmosphere.”
 
-2. **What kind of data does remote sensing include?**
+7. **What kind of data does remote sensing include?**
 
 Remote sensing can include any physical characteristic, such as; temperature, distance, size, elevation, terrain, vegetative properties, cloud cover, water body depth, bedrock depth, & Gravimetry. Specialized sensors can go further and determine the chemical makeup of certain materials. ([USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used))
 
-7. **In what circumstances are feet a remote sensor? In an earthquake, when the floor is wet, detecting temperature changes, finding where the floor is(uneven surface)**
+8. **In what circumstances are feet a remote sensor? In an earthquake, when the floor is wet, detecting temperature changes, finding where the floor is(uneven surface)**
 
 Feet have three primary sensory receptors: Mechanoreceptors, which can detect pressure and vibrations, Thermoreceptors, which can detect and regulate temperature, and Nociceptors, which detect pain. Ergo, in situations involving vibrations, temperature, or pain, feet can function as remote sensors. ([I didn’t make this up.](https://www.medboundtimes.com/fitness-and-wellness/perceiving-the-world-through-your-feet))
 
-8. **If I were to design a remote sensor for some phenomenon, what would that thing be tasked at sensing?**
+9. **If I were to design a remote sensor for some phenomenon, what would that thing be tasked at sensing?**
 
 Remote sensors often have the capacity to measure wavelengths of light or sound that are reflected off of the subject or area being observed. This device should have an emitter and a receptor. Lidar, lasers, and sonar are prime examples of how we use waves to measure distance from a point. Using distances, we can accurately make a textured surface that models the area or subject that was observed.
 
 In the case of an evacuation, we could design a remote sensor to measure the amount of sound coming from stairways to determine the most available path out of a particular building.
 
-9. **Why is it needed?**
+10. **Why is it needed?**
 
 Remote sensing is needed to detect phenomena is advance to give as much warning time as possible in the event it is needed (ie. evacuation.) Remote sensing is also useful in gathering information about a subject from very far away or without touching it.([USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used))
 
