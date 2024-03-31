@@ -80,7 +80,7 @@ In the case of an evacuation, we could design a remote sensor to measure the amo
 
 Remote sensing is needed to detect phenomena is advance to give as much warning time as possible in the event it is needed (ie. evacuation.) Remote sensing is also useful in gathering information about a subject from very far away or without touching it.([USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used))
 
-10. **So** **I** **have** **asked** **a** **class** **of** **30** **individuals** **(of** **which** **around** **10** **will** **have** **actively contributed** **to** **this** **task)** **for** **solid** **answers** **about** **what** **remote** **sensing** **is.** **What weaknesses could there be in the data feed from my remote sensors?**
+11. **So** **I** **have** **asked** **a** **class** **of** **30** **individuals** **(of** **which** **around** **10** **will** **have** **actively contributed** **to** **this** **task)** **for** **solid** **answers** **about** **what** **remote** **sensing** **is.** **What weaknesses could there be in the data feed from my remote sensors?**
 
 Disjointed data, as the remote sensors aren’t fully communicating as they collect data. Face value information is being used for the answers instead of thorough research
 
