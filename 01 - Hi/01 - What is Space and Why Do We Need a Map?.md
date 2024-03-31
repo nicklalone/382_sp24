@@ -3,7 +3,7 @@
 1. [Reading this Week](#reading)
 2. [Concepts for This Week](#thisweek)
 3. [Day 1](#day1)
-4.  [Day 2](#day2)
+4. [Day 2](#day2)
 
 ---------------- Table of Contents ---------------- 
 

@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
+                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "438c2f70ef99c4d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "8d6fb2718edf9724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
+                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
+                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md"
+                "file": "07 - Remote Sensing/07 - Remote Sensing.md"
               }
             }
           }
@@ -146,11 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "155c15be7415e8d9",
+  "active": "8d6fb2718edf9724",
   "lastOpenFiles": [
+    "08 - Disaster and Maps/08 - Disaster and Maps.md",
+    "12 - Ethics and Geodesign/12 - Ethics and Geodesign.md",
+    "11 - Future of Maps/11 - Future of Maps.md",
+    "13 - Test Week/13 - Test Review.md",
+    "10 - Map Design/10 - Map Design.md",
+    "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
+    "presentations/08 - Tuesday.pptx",
+    "presentations/~$08 - Tuesday.pptx",
+    "presentations/~$06 - Tuesday.pptx",
     "07 - Remote Sensing/07 - Remote Sensing.md",
     "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
-    "presentations/~$06 - Tuesday.pptx",
     "05 - Intro to GIS/05 - Intro to GIS.md",
     "presentations/~$05 - Tuesday.pptx",
     "syllabus/~$sp - IGME_382_Syllabus.docx",
@@ -169,19 +200,11 @@
     "images/gps/GPS-atmospheric-conditions.png",
     "images/gps",
     "images/ps",
-    "images/untitled folder",
     "02 - How do Maps Work/02 - How do Maps Work.md",
     "images/harrison4.jpg",
     "images/harrison.jpg",
     "images/risk_index_calculation.png.md",
-    "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
-    "presentations/~$02 - Tuesday.pptx",
-    "13 - Test Week/13 - Test Review.md",
     "14 - Final Project/14 - Final Project.md",
-    "08 - Disaster and Maps/08 - Disaster and Maps.md",
-    "12 - Ethics and Geodesign/12 - Ethics and Geodesign.md",
-    "11 - Future of Maps/11 - Future of Maps.md",
-    "10 - Map Design/10 - Map Design.md",
     "README.md"
   ]
 }

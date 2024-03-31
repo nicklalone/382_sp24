@@ -11,3 +11,8 @@
 # <a id="midterm"></a>Concepts to Date
 
 # <a id = "today"></a>Concepts for This Week 
+- redistricting
+- gdpr
+- surveying
+- redlining
+- indoor
