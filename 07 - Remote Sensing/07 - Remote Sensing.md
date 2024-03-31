@@ -1,6 +1,6 @@
 Please organize yourselves so you can answer these questions: 
 
-1. What is remote sensing?  
+1. **What is remote sensing?**  
 
 Remote sensing is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from satellite or aircraft).([USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used#%3A%7E%3Atext%3DRemote%20sensing%20is%20the%20process%2Ctypically%20from%20satellite%20or%20aircraft)))
 
@@ -10,17 +10,16 @@ Remote sensing is defined as the measurement of object properties on the earth�
 
 2. **Please cite 5 pieces detailing what remote sensing is.**  
 
-*  **2** **Web** **Resources,**
+	*  **2** **Web** **Resources,**
 
-1. Remote sensing is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from satellite or aircraft). Special cameras collect remotely sensed images, which help researchers "sense" things about the Earth:[USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used)
-2. Remote sensing is the acquisition of information from a distance. NASA observes Earth and other planetary bodies via remote sensors on satellites and aircraft that detect and record reflected or emitted energy. Remote sensors, which provide a global perspective and a wealth of data about Earth systems, enable data-informed decision making based on the current and future state of our planet.[Earth Data (NASA)](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing)
+	1. Remote sensing is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from satellite or aircraft). Special cameras collect remotely sensed images, which help researchers "sense" things about the Earth:[USGS](https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used)
+	2. Remote sensing is the acquisition of information from a distance. NASA observes Earth and other planetary bodies via remote sensors on satellites and aircraft that detect and record reflected or emitted energy. Remote sensors, which provide a global perspective and a wealth of data about Earth systems, enable data-informed decision making based on the current and future state of our planet.[Earth Data (NASA)](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing)
 
-3. **2** **academic** **resources** **(peer** **reviewed),**
+	* **2** **academic** **resources** **(peer** **reviewed),**
+		1. [Introduction to Remote Sensing, Fifth Edition](https://books.google.com/books?hl=en&lr&id=NkLmDjSS8TsC&oi=fnd&pg=PP1&dq=remote%2Bsensing&ots=s3Etu3qZ0w&sig=2NTVmMKDxvO4K0hm20EiV1hEpZs%23v%3Donepage&q=remote%20sensing&f=false): “Remote sensing is the observation of a target by a device separated from it by some distance”
+		2. Remote sensing is defined as the acquisition of information about an object without being in physical contact with it.[Introduction to the Physics](https://books.google.com/books?hl=en&lr&id=B1QmEAAAQBAJ&oi=fnd&pg=PP1&dq=remote%2Bsensing&ots=dOizYC0J_V&sig=fXdrHL5gegv9V6pJlYwHg8g3BOQ%23v%3Donepage&q=remote%20sensing&f=false) [and Techniques of Remote Sensing](https://books.google.com/books?hl=en&lr&id=B1QmEAAAQBAJ&oi=fnd&pg=PP1&dq=remote%2Bsensing&ots=dOizYC0J_V&sig=fXdrHL5gegv9V6pJlYwHg8g3BOQ%23v%3Donepage&q=remote%20sensing&f=false)
 
-1. [Introduction to Remote Sensing, Fifth Edition](https://books.google.com/books?hl=en&lr&id=NkLmDjSS8TsC&oi=fnd&pg=PP1&dq=remote%2Bsensing&ots=s3Etu3qZ0w&sig=2NTVmMKDxvO4K0hm20EiV1hEpZs%23v%3Donepage&q=remote%20sensing&f=false): “Remote sensing is the observation of a target by a device separated from it by some distance”
-2. Remote sensing is defined as the acquisition of information about an object without being in physical contact with it.[Introduction to the Physics](https://books.google.com/books?hl=en&lr&id=B1QmEAAAQBAJ&oi=fnd&pg=PP1&dq=remote%2Bsensing&ots=dOizYC0J_V&sig=fXdrHL5gegv9V6pJlYwHg8g3BOQ%23v%3Donepage&q=remote%20sensing&f=false) [and Techniques of Remote Sensing](https://books.google.com/books?hl=en&lr&id=B1QmEAAAQBAJ&oi=fnd&pg=PP1&dq=remote%2Bsensing&ots=dOizYC0J_V&sig=fXdrHL5gegv9V6pJlYwHg8g3BOQ%23v%3Donepage&q=remote%20sensing&f=false)
-
-	1. **and** **1** **Youtube** **video**.
+	* **1** **Youtube** **video**.
 	
 		1. [What is Remote Sensing?](https://www.youtube.com/watch?v=F2mQ6fJSxRY) Museum)
 
@@ -34,17 +33,16 @@ Active sensors use internal stimuli to collect data, emitting energy in order to
 
 3. **Please cite 5 pieces detailing what Active remote sensing is. Please include:** 
 
-1. **2** **Web** **Resources,**
+	* **2** **Web** **Resources,**
 
-1. [Active vs Passive Sensing](https://gisgeography.com/passive-active-sensors-remote-sensing/#%3A%7E%3Atext%3DActive%20sensors%20have%20their%20own%20source%20of%20light%2Cthe%20sun%20shines%2C%20passive%20sensors%20measure%20this%20energy) “You can think of active sensors like a handheld camera with the flash turned on”
-2. [NASA](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/remote-sensing/): “An active sensor emits radiation in the direction of the target to be investigated. The sensor then detects and measures the radiation that is reflected or backscattered from the target.”
+	1. [Active vs Passive Sensing](https://gisgeography.com/passive-active-sensors-remote-sensing/#%3A%7E%3Atext%3DActive%20sensors%20have%20their%20own%20source%20of%20light%2Cthe%20sun%20shines%2C%20passive%20sensors%20measure%20this%20energy) “You can think of active sensors like a handheld camera with the flash turned on”
+	2. [NASA](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/remote-sensing/): “An active sensor emits radiation in the direction of the target to be investigated. The sensor then detects and measures the radiation that is reflected or backscattered from the target.”
 
-3. **2** **academic** **resources** **(peer** **reviewed),**
+	* **2** **academic** **resources** **(peer** **reviewed),**
+	1. [Remote Sensing Big Data](https://link.springer.com/chapter/10.1007/978-3-031-33932-5_2) “The sensor transmits a radio signal in microwave and records the backscattered signal from targets.”
+	2. [From esri](https://support.esri.com/en-us/gis-dictionary/active-remote-sensing): “A remote-sensing system, such as radar, that produces electromagnetic radiation and measures its reflection back from a surface.”
 
-1. [Remote Sensing Big Data](https://link.springer.com/chapter/10.1007/978-3-031-33932-5_2) “The sensor transmits a radio signal in microwave and records the backscattered signal from targets.”
-2. [From esri](https://support.esri.com/en-us/gis-dictionary/active-remote-sensing): “A remote-sensing system, such as radar, that produces electromagnetic radiation and measures its reflection back from a surface.”
-
-5. **What is Passive remote sensing?** 
+2. **What is Passive remote sensing?** 
 
 “Remote sensing systems which measure energy that is naturally available are called passive sensors. Passive sensors can only be used to detect energy when the naturally occurring energy is available. For all reflected energy, this can only take place during the time when the sun is illuminating the Earth.” ([Gov of Canada](https://natural-resources.canada.ca/maps-tools-publications/satellite-imagery-air-photos/remote-sensing-tutorials/introduction/passive-vs-active-sensing/14639))
 
@@ -56,15 +54,15 @@ Landsat mission is the longest running earth observation program. For over 40 ye
 
 6. **Please cite 5 pieces detailing what Passive remote sensing is.** 
 
-1. **2 Web Resources,**
+*  **2 Web Resources,**
 
-- Passive remote sensing detects energy emitted from an object. Most passive systems operate in the visible, infrared, thermal infrared, and microwave portions of the electromagnetic spectrum. These include sensors such as Accelerometers, Radiometers, and Spectrometers. ([NASA Earthdata](https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors))
-- [Passive vs Active Sensing,](https://gisgeography.com/passive-active-sensors-remote-sensing/#%3A%7E%3Atext%3DActive%20sensors%20have%20their%20own%20source%20of%20light%2Cthe%20sun%20shines%2C%20passive%20sensors%20measure%20this%20energy) Passive sensors use naturally emitted light from the sun. Without the sun, there wouldn’t be passive remote sensing.
+	1. Passive remote sensing detects energy emitted from an object. Most passive systems operate in the visible, infrared, thermal infrared, and microwave portions of the electromagnetic spectrum. These include sensors such as Accelerometers, Radiometers, and Spectrometers. ([NASA Earthdata](https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors))
+	2.  [Passive vs Active Sensing,](https://gisgeography.com/passive-active-sensors-remote-sensing/#%3A%7E%3Atext%3DActive%20sensors%20have%20their%20own%20source%20of%20light%2Cthe%20sun%20shines%2C%20passive%20sensors%20measure%20this%20energy) Passive sensors use naturally emitted light from the sun. Without the sun, there wouldn’t be passive remote sensing.
 
-1. **2 academic resources (peer reviewed),**
+	* **2 academic resources (peer reviewed),**
 
-- [Science Direct](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/passive-remote-sensing#%3A%7E%3Atext%3DPassive%20remote%20sensing%20is%20basically%2CFrom%3A%20Hyperspectral%20Remote%20Sensing%2C%202020): “Passive remote sensing…depends on two sources of radiation. In the visible to shortwave infrared, the radiation collected by a remote sensing system originates with the sun…In the thermal infrared, [thermal radiation](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/thermal-radiation) is emitted directly by materials on the earth and combines with self-emitted thermal radiation in the atmosphere as it propagates upward.”
-- [NASA](https://www.nasa.gov/general/what-are-passive-and-active-sensors/) “Spaceborne passive sensors provide the ability to obtain all-weather, day and night, global observations of the Earth and its atmosphere.”
+1. [Science Direct](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/passive-remote-sensing#%3A%7E%3Atext%3DPassive%20remote%20sensing%20is%20basically%2CFrom%3A%20Hyperspectral%20Remote%20Sensing%2C%202020): “Passive remote sensing…depends on two sources of radiation. In the visible to shortwave infrared, the radiation collected by a remote sensing system originates with the sun…In the thermal infrared, [thermal radiation](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/thermal-radiation) is emitted directly by materials on the earth and combines with self-emitted thermal radiation in the atmosphere as it propagates upward.”
+1.  [NASA](https://www.nasa.gov/general/what-are-passive-and-active-sensors/) “Spaceborne passive sensors provide the ability to obtain all-weather, day and night, global observations of the Earth and its atmosphere.”
 
 8. **What kind of data does remote sensing include?**
 
