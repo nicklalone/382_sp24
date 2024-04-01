@@ -14,13 +14,8 @@ Ultimately, the Story Map should show how the implementation of geospatial data 
 1. Create maps and pair them with text to form a compelling narrative argument
 1. Communicate information to a wide audience through a shareable digital platform
 1. Final thought should include how access to additional geospatial technology could enhance the story map (e.g., LiDAR data to collect building heights, Satellite Imagery over time to see change)
-### Proposal Deliverable:
 
-* Paragraph-long description of your intended topic and source approach to your Story Map (“What story are you going to tell?”
-* Short bibliography of sources (at least 2 primary sources)
-* Actual or potential data sources (acquire from source, collect by receiver, create from scratch)
-### Story Map Deliverables:
-
+### Storymap Deliverable:
 Your Story Map should include:
 * At least 8-10 sections, each including a title and narrative text.
 * At least 2 sections visually represent geospatial data (e.g., a map! Data you collected!)
@@ -32,8 +27,8 @@ Your Story Map should include:
 * Sections should make sense sequentially.
 * Readability and visual appeal is important!
 * All sources must be hyperlinked within the text block where the claim is made.
-### Grading:
 
+### Grading:
 The final project will be graded out of **200** points and will be worth 20% of your overall grade.
 
 Grades will be based on the following qualifications (at a minimum):
@@ -46,6 +41,7 @@ Grades will be based on the following qualifications (at a minimum):
 * The importance of space and geography to the topic is clear.
 * The map and text is well edited and flows together.
 * The map is shared with the instructor and the class.
+  
 ### Examples to Inspire:
 
 * [East New York Neighborhood Plan](https://dcp.maps.arcgis.com/apps/MapJournal/index.html?appid=f941ce15e1494c75a7eb1b2f9c2754f2)
