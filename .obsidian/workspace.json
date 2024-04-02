@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
+                "file": "13 - Test Week/13 - Test Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
+                "file": "13 - Test Week/13 - Test Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
+                "file": "13 - Test Week/13 - Test Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Remote Sensing/07 - Remote Sensing.md"
+                "file": "13 - Test Week/13 - Test Review.md"
               }
             }
           }
@@ -171,22 +171,23 @@
   },
   "active": "8d6fb2718edf9724",
   "lastOpenFiles": [
-    "13 - Test Week/13 - Test Review.md",
-    "07 - Remote Sensing/07 - Remote Sensing.md",
-    "08 - Disaster and Maps/08 - Disaster and Maps.md",
+    "presentations/~$01 - First Day.pptx",
+    "presentations/~$08 - Tuesday.pptx",
+    "14 - Final Project/14 - Final Project.md",
     "12 - Ethics and Geodesign/12 - Ethics and Geodesign.md",
+    "13 - Test Week/13 - Test Review.md",
     "11 - Future of Maps/11 - Future of Maps.md",
     "10 - Map Design/10 - Map Design.md",
+    "07 - Remote Sensing/07 - Remote Sensing.md",
+    "08 - Disaster and Maps/08 - Disaster and Maps.md",
     "01 - Hi/01 - What is Space and Why Do We Need a Map?.md",
     "presentations/08 - Tuesday.pptx",
-    "presentations/~$08 - Tuesday.pptx",
     "presentations/~$06 - Tuesday.pptx",
     "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
     "05 - Intro to GIS/05 - Intro to GIS.md",
     "presentations/~$05 - Tuesday.pptx",
     "syllabus/~$sp - IGME_382_Syllabus.docx",
     "04 - Game Maps/04 - Game Maps.md",
-    "presentations/~$01 - First Day.pptx",
     "presentations/~$04 - Tuesday.pptx",
     "presentations/~$03 - Tuesday.pptx",
     "03 - Representations and Visualizations/03 - Representations and Visualizations.md",
@@ -204,7 +205,6 @@
     "images/harrison4.jpg",
     "images/harrison.jpg",
     "images/risk_index_calculation.png.md",
-    "14 - Final Project/14 - Final Project.md",
     "README.md"
   ]
 }
