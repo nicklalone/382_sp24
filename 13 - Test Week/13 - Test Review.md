@@ -68,6 +68,7 @@
 - Draw Map on Paper - Eventually, we began to hide the map and play involved drawing it while exploration was happening.
 - 3D and Maps - As games developed a z-axis, we began to be able to create terrain that was 3dimensional. To deal with this, we began to import developments of maps from the outside.
 # <a id = "05"></a>Week 05 - Intro to GIS
+* Base Map - 
 * **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
 * **Vector** - https://www.caliper.com/glossary/what-is-vector-data.htm
 	* **Discussion of Both**: 
@@ -224,18 +225,80 @@ Most people will not be fact checking the information so it only takes one or tw
 
 The data being gathered is not representative of the whole population or the understanding of the whole class – it will only be representative of the contributors to the assignment
 # <a id = "08"></a>Week 08 - Disaster and Maps
+ESRI's Deal: 
+		1. https://www.esri.com/en-us/disaster-response/overview
+		
+There are a few givens to consider with regard to maps and disaster. We will state these givens now: 
 
+1. We refer to the event that creates the disaster a hazard. These hazards can be natural, manmade, and technological.
+2. Disasters begin long before the hazard and as such, we can map those risky areas if we wanted to.
+3. Vulnerability and risk are not equal across the population. 
+
+But what does this have to do with maps? 
+
+1. 3 Kinds of Maps
+
+We can say that there are 3 kinds of maps we have for disaster. Those maps are: 
+
+1. A Map of the Local Area.
+City planning is a process that does not check in with emergency management. The reason this matters is that most of your vulnerabilities and weaknesses originate here.
+
+Why?
+
+2. A Map of Risk and Vulnerability.
+
+What is risk?
+![](/images/Risk_Index_Calculation.svg)
+Does this matter?
+
+Let's talk about the following image: 
+
+![](/images/notnat.jpeg)
+
+What does this mean?
+
+![](/images/nosuchmodel.png)
+https://justsolutionscollective.org/calling-it-a-natural-disaster-ignores-whats-really-to-blame/ 
+
+But don't take my word for it.
+
+https://www.undrr.org/news/sendai-framework-6th-anniversary-time-recognize-there-no-such-thing-natural-disaster-were
+
+4. A Map of Disaster Damage in Situ.
 
 # <a id = "10"></a>Week 10 - Map Design
 
-
+For this week, I asked you to draw a map from my office to class. I then asked you to draw that same map in GIS. What we found was that: 
+1. Scale was hard to keep track of via paper because we are used to computers keeping that scale for us. 
+2. The next part was that many of us relied on existing floorplans. This meant that almost all of the drawing was done and so we were transcribing. If those floorplans didn't exist, we would have to create our scale from scratch.
+3. In a perfect world, we'd be taking 2 floorplans with the same scale and then applying that scale to external spaces but that is difficult as there are no scales on the floorplans that exist.
+4. GIS can only provide top-down, external-based floorplans. While GIS can do 3D maps, the concept does not really change. It is still external to external. This does not change the criticism of GIS only being able to map from outside door to outside door because it's simply a 3D box rather than a 2D box. There is still no map inside.
 # <a id = "11"></a>Week 11 - Future of Maps
+
+We talked about the potential futures that exist for our world. Most of what we talked about is included in our homework assignment. 
+
+As such, we turn to the concept of design fiction. We'll use [this definition](https://https://augerloizeau.tumblr.com/post/53524176947/definition-of-speculative-design): 
+
+_Speculative design combines informed, hypothetical extrapolations of an emerging technology’s development with a deep consideration of the cultural landscape into which it might be deployed, to speculate on future products, systems and services. These speculations are then used to examine and encourage dialogue on the impact a specific technology may have on our everyday lives. The familiar and engaging nature of the designed output is intended to facilitate discourse with a broad audience: from experts in the field such as scientists, engineers and designers to the consumers and users of technological products and systems._ 
+
+The tests for this section will hinge (after the definition), on speculating for a few of these.
+
+1. AI and Geospatial Technologies
+    - What is an application of AI that could be useful?
+2. Indoor-based location Services
+    - Once we go inside a space, maps no longer work. What would it take to get them to work and what would the consequence be?
+3. Disaster and Mapping
+    - Disaster requires rapid mapping with piecemeal information and little infrastructure. How do you fix that?
+4. Land Development, AI, and Mapping
+    - When we develop an area for building, or just human settlement in general, there are unintended consequences. Can AI help here?
+5. Predicting Climate Change Consequence 
+    - This is a difficult space as large swathes of the population do not believe in climate change while everyone else deals with it. What can we do?
 
 
 # <a id = "12"></a>Week 12 - Ethics
 * **redistricting** - This is a form of unethical map design wherein a political party redraws representative districts based on the likelihood that regardless of how much voting occurs, one party will remain on top.
-- **gdpr** - 
-- **surveying** - 
-- **redlining** - 
-- **indoor** - 
+- **gdpr** - Your data, including where you live, and where you have lived, are protected under this european plan for data security. This legislation is the result of interference in a variety of elections (2016 presidential in the us, Brexit, and parliamentary elections in the UK)
+- **surveying** - When land parcels are examined, it is possible for the surveying team to push land boundaries around. This can result in property becoming larger or smaller suddenly and can have an impact on property values. 
+- **redlining** - based on popular pseudoscience of the era — was that the presence of any population of Black residents was a sign of impending property value decline. Pretty soon, Mr. Lasner says, private lenders started using the government’s map lines as well — effectively barring Black home buyers from qualifying for secure mortgages from many mainstream banks. Later this would take the form of being unable to secure utilities if you could get loans.
+- **indoor** - Maps work from external door to external door. Sometimes it's just to the exterior of a building or a general location in a parking lot where you're meant to find yourself the rest of the way. We talked about in class how this could result in potential uses about indoor based locations for terrorist attacks, school shootings, and other forms of malintent. the benefits and weaknesses of this concept are still being discussed and will be for quite some time.
 
